@@ -1,0 +1,4 @@
+2020-02-11 18:50:25,131 [1] ERROR ConsoleUI.Program - error in file
+18:52:09,653[1] ERROR - error in file
+18:52:32,790[1] ERROR - error in file
+18:53:30,889[1] ERROR - error in file

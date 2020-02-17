@@ -1,0 +1,9 @@
+C:\Users\Bridge Labs\Desktop\shell\Logger\ConsoleUI\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\Bridge Labs\Desktop\shell\Logger\ConsoleUI\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\Bridge Labs\Desktop\shell\Logger\ConsoleUI\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\Bridge Labs\Desktop\shell\Logger\ConsoleUI\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\Bridge Labs\Desktop\shell\Logger\ConsoleUI\ConsoleUI\bin\Debug\log4net.dll
+C:\Users\Bridge Labs\Desktop\shell\Logger\ConsoleUI\ConsoleUI\bin\Debug\log4net.xml
+C:\Users\Bridge Labs\Desktop\shell\Logger\ConsoleUI\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
+C:\Users\Bridge Labs\Desktop\shell\Logger\ConsoleUI\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\Bridge Labs\Desktop\shell\Logger\ConsoleUI\ConsoleUI\obj\Debug\ConsoleUI.pdb
