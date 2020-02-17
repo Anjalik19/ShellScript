@@ -6,12 +6,11 @@ do
 for((k=$j+1;k<7;k++))
 do
 if((((${arr[$i]} + ${arr[$j]} + ${arr[$k]}))==0))
-echo
 then
 echo ${arr[$i]} , ${arr[$j]} , ${arr[$k]}
-#sum=$((sum+1))
+sum=$((sum+1))
 fi
 done
 done
 done
-#echo $sum
+echo $sum
